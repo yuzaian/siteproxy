@@ -1,1 +1,1 @@
-web: herokuAddr=dashboard.heroku.com npm run start
+web: herokuAddr=netpass.heroku.com npm run start
